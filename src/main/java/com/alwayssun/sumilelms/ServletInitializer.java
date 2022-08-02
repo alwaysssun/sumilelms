@@ -5,7 +5,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 
 public class ServletInitializer extends SpringBootServletInitializer {
 
-    //2022.08.01
+    //2022.08.01 yu
 
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
